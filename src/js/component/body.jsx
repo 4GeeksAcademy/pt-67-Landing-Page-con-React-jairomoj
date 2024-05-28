@@ -7,10 +7,10 @@ const Body = () => {
         <div className="container">
             <Jumbotron />
             <div className="row">
-                <Card className="col-sm-12 col-md-3 col-lg-3" />
-                <Card className="col-sm-12 col-md-3 col-lg-3" />
-                <Card className="col-sm-12 col-md-3 col-lg-3" />
-                <Card className="col-sm-12 col-md-3 col-lg-3" />
+                <Card />
+                <Card />
+                <Card />
+                <Card />
             </div>
         </div>
     );
